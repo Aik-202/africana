@@ -21,7 +21,7 @@ Git works with the command line
 
 ## Some Git Commands
 
-Install Git
+Install Git Bash (command line for Git)
 https://git-scm.com/download
 
 Ensure to set VS CODE as default editor
@@ -31,3 +31,11 @@ git init => initialise git in your project
 git status => checks all unsaved changes
 
 git add . => to add changes
+
+git commit -m "message" => to commit changes
+
+Trying to use git for the first time will flag 
+an error, because git doesn't know you, so run
+
+git config --global user.email "your github email"
+git config --global user.name "your github username"
