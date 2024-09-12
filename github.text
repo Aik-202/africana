@@ -39,3 +39,6 @@ an error, because git doesn't know you, so run
 
 git config --global user.email "your github email"
 git config --global user.name "your github username"
+
+git push url => this pushes changes from 
+local (git) to remote (github)
