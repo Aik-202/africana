@@ -1,0 +1,33 @@
+Git hub is a Version Control System
+It enables developers to work together on a single project
+
+Go to https://github.com/ to open an account
+Sign Up 
+
+## The Concept of Repository
+A repository is a like a storage 
+container where developers save
+their project files, and these 
+project files can shared to other 
+developers who would want to help them
+
+## GIT
+While Github is a remote, 
+Git works with your local machine
+It enables developers to push 
+their changes online (Github)
+
+Git works with the command line
+
+## Some Git Commands
+
+Install Git
+https://git-scm.com/download
+
+Ensure to set VS CODE as default editor
+
+git init => initialise git in your project
+
+git status => checks all unsaved changes
+
+git add . => to add changes
